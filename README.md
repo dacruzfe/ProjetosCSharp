@@ -5,6 +5,7 @@
 | Projeto                                                              | Descrição                                                      |
 |----------------------------------------------------------------------|----------------------------------------------------------------|
 | [Resolução Desafios de Código - Coding The Future Avanade - .NET Developer - DIO](https://github.com/dacruzfe/ProjetosCSharp/tree/main/Desafio%20de%20Codigo%20-%20.NET%20Developer%20Coding%20The%20Future%20Avanade) | Exemplos de dez desafios de código do bootcamp DecolaTech 2024, de níveis básicos, intermediários e avançados. |
+| [Resolução Desafios de Código - Coding The Future Avanade II - .NET Developer - DIO](https://github.com/dacruzfe/ProjetosCSharp/tree/main/Desafio%20de%20Codigo%20-%20.NET%20Developer%20Coding%20The%20Future%20Avanade) | Exemplos de dez desafios de código do bootcamp DecolaTech 2024, de níveis básicos, intermediários e avançados. |
 
 
 Sinta-se à vontade para explorar esses projetos e aprender mais sobre minha jornada de desenvolvimento em C#! 🚀
